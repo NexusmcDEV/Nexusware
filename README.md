@@ -26,10 +26,6 @@ If you discover any security related issues within Nexusware, please send an e-m
 > [!NOTE]
 > JavaScript injections from the admin dashboard are not classified as XSS vulnerabilities. Of course, XSS found in user-facing areas of the site, as well as all other vulnerabilities throughout the entire application, will be recognized and addressed accordingly.
 
-## Support us
-
-If you like this project, please consider supporting us on [GitHub sponsors](https://github.com/sponsors/Azuriom).
-
 ## License
 
 Azuriom is licensed under the [GNU General Public License v3.0 or later](LICENSE).
