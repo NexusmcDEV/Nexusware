@@ -1,4 +1,4 @@
-<p align="center"><img src="https://azuriom.com/assets/svg/logo-text.svg" width="400" alt="Azuriom"></p>
+<p align="center"><img src="https://nexusmc.fun/storage/img/nexusware.png" width="400" alt="NEXUSWARE"></p>
 
 # Azuriom
 
